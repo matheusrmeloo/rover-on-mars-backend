@@ -1,0 +1,23 @@
+{
+  "name": "rover-on-mars-backend",
+  "version": "1.0.0",
+  "description": "An API in which it receives commands in a .txt file to move Rovers robots on a Mars plateau.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusrmeloo/rover-on-mars-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusrmeloo/rover-on-mars-backend/issues"
+  },
+  "homepage": "https://github.com/matheusrmeloo/rover-on-mars-backend#readme",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
